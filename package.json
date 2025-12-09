@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@raycast/eslint-config": "2.1.1",
-    "@types/node": "24.10.1",
+    "@types/node": "24.10.2",
     "@types/react": "19.2.7",
     "eslint": "^9.0.0",
     "prettier": "^3.0.0",
